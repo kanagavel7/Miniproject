@@ -1,28 +1,26 @@
-## Title of the Project
+## Customizable E‑commerce Clothing Platform for Personalised Fashion
 Small description about the project like one below
 The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Tailmate is a web-based customizable apparel e-commerce platform that enables users to design and purchase personalised oversized T‑shirts, regular T‑shirts, and hoodies through an intuitive, real-time interface. Traditional fashion e‑commerce sites mostly sell pre-designed products with limited personalization, forcing users to adjust to fixed styles instead of expressing their own creativity. This project overcomes that limitation by offering live design customization and multi‑view previews while keeping the system lightweight, open-source, and student/startup friendly.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Real-time apparel customization with support for uploading designs, adding stylish text, and choosing from predefined templates.​
+- Multi-view garment preview (front, back, side) to visualize designs before confirming orders.​
+- Responsive interface built with HTML, CSS, JavaScript, and Bootstrap for smooth usage across desktop and mobile devices.​
+- Firebase-backed authentication using Google Sign-In for secure and simple user onboarding.​
+- Cloud-based Firestore database for real-time product, user, and order management.​
+- Firebase Storage integration to handle user-uploaded artwork and design assets.​
+- Admin dashboard for order tracking, product updates, and user management in a single place.​
+- Modular architecture designed for easy extension with payment gateway, analytics, and AI-based features.​
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+- Operating System: Any modern 64‑bit OS such as Windows 10/11, Ubuntu, or other Linux distributions for running the development stack and local server.​
+- Development Environment: Latest versions of modern browsers (Chrome/Edge/Firefox) plus a code editor such as VS Code for editing HTML, CSS, and JavaScript.​
+- Frontend Stack: HTML5, CSS3, JavaScript, and Bootstrap for building responsive pages, product listings, and the customization canvas.​
+- Backend/Cloud Services: Firebase Authentication, Cloud Firestore, and Firebase Storage for user login, real-time data, and media storage, along with Firebase Hosting for deployment.​
+- Tools and Utilities: Git/GitHub for version control, Figma/Canva for UI mockups and design assets, and Node.js/npm (optional) for build tools or bundlers if required.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
@@ -45,15 +43,11 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Tailmate demonstrates how a lightweight, open-source stack can deliver an interactive, real-time customizable fashion experience without relying on heavy enterprise platforms. The system reduces dependency on closed, costly services like Printful or Redbubble and offers a deployable reference for students and small businesses to experiment with personalized apparel commerce. It also provides a practical learning environment for web development, cloud integration, and UX design, forming a base for future upgrades like payment integration, AI style suggestions, and AR try‑on.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
+1.Printful. “Custom Product E‑Commerce Platforms,” Online: https://www.printful.com​
+2.Redbubble. “User‑Generated Apparel Customization,” Online: https://www.redbubble.com​
+3.Medusa.js. “Headless E‑Commerce Platform Documentation,” Online: https://docs.medusajs.com​
+4.Firebase Documentation. “Firebase Authentication, Firestore, and Hosting Guides,” Online: https://firebase.google.com/docs​
+5.Bootstrap. “Front-End Framework Documentation,” Online: https://getbootstrap.com
