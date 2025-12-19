@@ -1,6 +1,5 @@
 ## Customizable E‑commerce Clothing Platform for Personalised Fashion
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+The development of a customizable e‑commerce clothing platform that allows users to design personalised T‑shirts and hoodies in real time, simplifying online apparel customization and enhancing the overall fashion shopping experience.
 
 ## About
 Tailmate is a web-based customizable apparel e-commerce platform that enables users to design and purchase personalised oversized T‑shirts, regular T‑shirts, and hoodies through an intuitive, real-time interface. Traditional fashion e‑commerce sites mostly sell pre-designed products with limited personalization, forcing users to adjust to fixed styles instead of expressing their own creativity. This project overcomes that limitation by offering live design customization and multi‑view previews while keeping the system lightweight, open-source, and student/startup friendly.
@@ -23,10 +22,8 @@ Tailmate is a web-based customizable apparel e-commerce platform that enables us
 - Tools and Utilities: Git/GitHub for version control, Figma/Canva for UI mockups and design assets, and Node.js/npm (optional) for build tools or bundlers if required.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+<img width="1024" height="1536" alt="TailMate-SystemArchitecture" src="https://github.com/user-attachments/assets/09c52e6a-ee3e-4b19-a7e2-b5686015f8ce" />
 
 ## Output
 
@@ -46,8 +43,12 @@ Note: These metrics can be customized based on your actual performance evaluatio
 Tailmate demonstrates how a lightweight, open-source stack can deliver an interactive, real-time customizable fashion experience without relying on heavy enterprise platforms. The system reduces dependency on closed, costly services like Printful or Redbubble and offers a deployable reference for students and small businesses to experiment with personalized apparel commerce. It also provides a practical learning environment for web development, cloud integration, and UX design, forming a base for future upgrades like payment integration, AI style suggestions, and AR try‑on.
 
 ## Articles published / References
-1.Printful. “Custom Product E‑Commerce Platforms,” Online: https://www.printful.com​
+1.Printful. “Custom Product E‑Commerce Platforms,” Online: https://www.printful.com
+​
 2.Redbubble. “User‑Generated Apparel Customization,” Online: https://www.redbubble.com​
+
 3.Medusa.js. “Headless E‑Commerce Platform Documentation,” Online: https://docs.medusajs.com​
+
 4.Firebase Documentation. “Firebase Authentication, Firestore, and Hosting Guides,” Online: https://firebase.google.com/docs​
+
 5.Bootstrap. “Front-End Framework Documentation,” Online: https://getbootstrap.com
