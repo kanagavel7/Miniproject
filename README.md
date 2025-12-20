@@ -27,23 +27,50 @@ Tailmate is a web-based customizable apparel e-commerce platform that enables us
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Home & Product Listing
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="495" height="787" alt="1" src="https://github.com/user-attachments/assets/16c58348-aeec-4860-a129-e36f89f2bede" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+<img width="496" height="868" alt="3" src="https://github.com/user-attachments/assets/78a74e91-0c50-48e2-8396-cf5e99e760da" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 -  Customization – Front View
 
+<img width="500" height="866" alt="5" src="https://github.com/user-attachments/assets/e0e6e8f2-365c-42de-a421-c32107cb0657" />
 
+<img width="501" height="663" alt="6" src="https://github.com/user-attachments/assets/231ea6c3-0fc9-46c1-85ed-193cc1da7e11" />
+
+Real‑time front view customization using uploaded artwork.
+
+#### Output3 -  Customization – Back View
+
+<img width="503" height="875" alt="8" src="https://github.com/user-attachments/assets/9ec34884-9738-4bcc-bbc2-3591a44341ac" />
+
+Back view editing with synced 2D print layout preview.
+
+#### Output4 -  Design Tools Sidebar
+
+<img width="490" height="862" alt="7" src="https://github.com/user-attachments/assets/dbef9a3b-ef9e-4a3b-a87a-8edb728cfbc7" />
+
+Design tools sidebar for adding images, text, lines and colors.
+
+#### Output5 -  Checkout & Order Summary
+
+<img width="496" height="871" alt="4" src="https://github.com/user-attachments/assets/8762c22d-0812-470c-a827-f08af15084bb" />
+
+Checkout step collecting user details before saving order to Firebase.
+
+#### Output6 -  Order Stored in Firebase
+
+![10](https://github.com/user-attachments/assets/06f5eac8-a1ea-41b4-8613-d75e9523a33c)
+
+Order data stored in Firestore (user, product, size, timestamp).
 ## Results and Impact
 Tailmate demonstrates how a lightweight, open-source stack can deliver an interactive, real-time customizable fashion experience without relying on heavy enterprise platforms. The system reduces dependency on closed, costly services like Printful or Redbubble and offers a deployable reference for students and small businesses to experiment with personalized apparel commerce. It also provides a practical learning environment for web development, cloud integration, and UX design, forming a base for future upgrades like payment integration, AI style suggestions, and AR try‑on.
 
 ## Articles published / References
+
 1.Printful. “Custom Product E‑Commerce Platforms,” Online: https://www.printful.com
+
 ​
 2.Redbubble. “User‑Generated Apparel Customization,” Online: https://www.redbubble.com​
 
